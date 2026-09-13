@@ -1,5 +1,5 @@
--- \\ Krypton Reanimate, Author: @xyzkade/@gelatekforever. https://github.com/KadeTheExploiter/Krypton/ //
--- || 1.8, Let's experiment!
+-- \\ digital reanimate, Author: @xyzkade/@gelatekforever. https://github.com/KadeTheExploiter/Krypton/ //
+-- || 1.8, lets use digital!
 -- // Eyelashes, Lipstick, Facemask, Crystal Gel, Deluxe Spa Package!~...
 
 local game = game
@@ -1351,5 +1351,5 @@ return {
 	StartReanimate = StartReanimate,
 	InstantRefit = RefitRig,
 	StopReanimate = CancelScript,
-	Version = "1.8-Beta",
+	Version = "1-Beta",
 }
