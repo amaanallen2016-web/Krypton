@@ -1,4 +1,4 @@
--- \\ Krypton Reanimate, Author: @xyzkade/@gelatekforever. https://github.com/KadeTheExploiter/Krypton/ //
+-- \\ digital Reanimate, Author: digital4eva. //
 -- || 1.8, Let's experiment!
 -- // Eyelashes, Lipstick, Facemask, Crystal Gel, Deluxe Spa Package!~...
 
